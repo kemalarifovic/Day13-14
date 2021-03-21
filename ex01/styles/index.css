@@ -24,7 +24,6 @@ body {
 }
 /* The overlay effect - lays on top of the container and over the image */
 .container {
-  
   position: relative;
   width: 100%;
 }
@@ -54,7 +53,7 @@ body {
   color: white;
   position: absolute;
   bottom: 0;
-  
+
   margin: 4px;
   padding: 0;
   font-weight: normal;
